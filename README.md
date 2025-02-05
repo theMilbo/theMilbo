@@ -107,7 +107,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/theMilbo/theMilbo/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/theMilbo/theMilbo/8d83aade31bba157e1888965057196e90e94aa9e/output/snake.svg" alt="Snake animation" />
 
 ###
 
